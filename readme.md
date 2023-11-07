@@ -1,9 +1,9 @@
 <h1 align='center'>
- <b>Machine Learning - Clustering </b>
+ <b>Ciencia de Datos - Clustering </b>
 </h1>
 
 
-## **Modelo de clasificación para verificar el uso de tarjetas de crédito**
+## **Extrayendo patrones de datos**
 
 
 ## Table of Contents
@@ -14,8 +14,9 @@
 5. [FAQs](#faqs)
 ### General Info
 ***
+El objetivo de este proyecto es analizar patrones en el comportamiento de clientes utilizando la técnica de aprendizaje no supervisada llamada Clustering para identificar comportamiento y características de los grupos más representativos, y en base a las conclusiones poder diseñar estrategias para aumentar ingresos o disminuir pérdidas.Esto permitirá evaluar la efectividad de la estrategia en determinado grupo de clientes (cluster) , al tener como referencia clientes con patrones de comportamiento semejantes.
 
-El objetivo de este proyecto es estimar un modelo de <b>Machine Learning</b> utilizando la técnica de  aprendizaje no supervisada llamada <b>Clustering</b> para poder procesar un dataset  de tarjetas de crédito con gran cantidad de variables (multidimensional). Al final del proyecto, tendremos un modelo de clasificación para estimar el tipo de uso que se le dió a cualquiera de lastarjetas.
+En este estudio no se pretende implementar ningun modelo de machine learnig pero si hacer uso de algunas técnicas del preprocesamiento de datos.
 
 <b>Clusterización:</b> Descubrir como validar e interpretar resultados con datos sin rótulos, aprender técnicas que  ayudan a interpretar la información de clusters, extrer la información sobre el comportamiento de clientes utilizando datos de una empresa de tarjeta de crédito, utilizar scikit-learn para generar clusters y calcular diferentes métricas de validación, entender la matemática que comprende las métricas de validación: Silhouette, Davies-Bouldin y Calinski-Harabasz.
 
@@ -31,8 +32,7 @@ A list of technologies used within the project:
 * [Seaborn](https://seaborn.pydata.org/): Version 0.12.2
 * [Matplotlib](https://matplotlib.org/stable/): Version 3.8.1
 * [Plotly](https://matplotlib.org/stable/): Version 5.15.0
-* [Statsmodels](https://www.statsmodels.org/stable/index.html): Version 0.14.0
-* [Scipy](https://docs.scipy.org/doc/scipy/): Version 1.11.3
+
 
 ## Installation
 ***
